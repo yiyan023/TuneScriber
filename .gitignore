@@ -1,0 +1,9 @@
+*venv*
+*venv*
+*.env
+node_modules
+*pycache*
+*test*
+*lib*
+*myenv*
+.venv*
